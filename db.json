@@ -1,4 +1,64 @@
 {
-  "users": [],
-  "products": []
+  "users": [
+    {
+      "email": "cleiton@mail.com",
+      "password": "$2a$10$GeI61UVhMX44lodFyxUIgOjq2XCqr3nlr2KZ3JC5GgzyFv83uf4mq",
+      "name": "cleiton",
+      "id": 1
+    },
+    {
+      "email": "pedro@mail.com",
+      "password": "$2a$10$OknrcgsCLkLDAq7C..UoleX8enEIhhw7PmnnOTkt2POoEY/sBs1sK",
+      "name": "Pedro",
+      "lastName": "Rocha",
+      "mail": "pedro@mail.com",
+      "id": 2
+    },
+    {
+      "email": "pedro3@mail.com",
+      "password": "$2a$10$sNW7CIzP9JDHNde3RM5Jk..qE/ahv3uINlAATvThnGfQaFMPbE4t2",
+      "name": "Pedro",
+      "lastName": "Rocha",
+      "id": 3
+    },
+    {
+      "email": "pedro2@mail.com",
+      "password": "$2a$10$EvMHG5GOrPTMIk5wR718.O/5UxKfK59anF2LzcWrF1nSVHu.XlmmW",
+      "name": "Pedro",
+      "lastName": "Rocha",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "title": "Hello world update",
+      "description": "Conteúdo do post",
+      "img": "Imagem atualizada",
+      "country": "França",
+      "Category": "Rosê",
+      "userId": 1,
+      "id": 1,
+      "price": 500
+    },
+    {
+      "title": "Hello world update",
+      "description": "Conteúdo do post",
+      "img": "Imagem atualizada",
+      "country": "França",
+      "Category": "Rosê",
+      "userId": 1,
+      "id": 2,
+      "price": 500
+    },
+    {
+      "title": "Hello world update",
+      "description": "Conteúdo do post",
+      "img": "Imagem atualizada",
+      "country": "França",
+      "Category": "Rosê",
+      "userId": 1,
+      "id": 3,
+      "price": 150
+    }
+  ]
 }
